@@ -55,3 +55,6 @@ jogoMario/
 ## **Licença**  
 Este projeto está licenciado sob a licença MIT.  
    
+## **Considerações**
+Atividade realizada com consulta de I.A (Chatgpt/para auxiliar no código).
+Usamos essa atividade principalmente para treinamento e uso das organizações com o git.
